@@ -1,8 +1,12 @@
 ## TUGAS UAS PEMROGRAMAN
 NAMA: RAHMANTA NOVRIZON
+
 NIM:  312210213
+
 KELAS:TI.22.A.2
+
 LINK YOUTUBE:
+
 _______________________________________________________________________________________________________________________________________________________________________
 - Pertama buat folder yang berisikan daftar nilai, input nilai, view nilai
 ![Screenshot (121)](https://user-images.githubusercontent.com/115687740/211341011-9f54f7df-a17a-4eac-adfa-9bf597f81ed1.png)
