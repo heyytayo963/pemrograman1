@@ -5,7 +5,9 @@ NIM:  312210213
 
 KELAS:TI.22.A.2
 
-LINK YOUTUBE:
+LINK YOUTUBE:https://youtube.com/watch?v=y45U7hz2pLw&feature=shares
+
+LINK DRIVE: https://drive.google.com/file/d/1daFYyWCQI3iX2wtjjShqcODA251mKFE4/view?usp=drivesdk
 
 _______________________________________________________________________________________________________________________________________________________________________
 - Pertama buat folder yang berisikan daftar nilai, input nilai, view nilai
@@ -108,9 +110,16 @@ def ubah(self):
 ![Screenshot (103)](https://user-images.githubusercontent.com/115687740/211338972-8b89af32-4158-4706-a4cb-358f4af16b25.png)
 
 - masukan varieabel untuk memanggil perintah input nama,nim,uts,uas,dan nilai tugas secara otomatis tanpa harus memanggil dengan menambahkan variable lagi
-![Screenshot (110)](https://user-images.githubusercontent.com/115687740/211339778-29de95d2-77ab-45be-8f3d-4e62f7ead29d.png)
+```
+dataMhs = Mahasiswa("nama","nim","uts","uas","tugas","total")
 
+dataMhs.tambah()
 
+dataMhs.tampilkan()
 
+dataMhs.ubah()
 
+dataMhs.hapus()
 
+dataMhs.tampilkan()
+```
